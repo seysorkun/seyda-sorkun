@@ -17,7 +17,10 @@ body{
     font-size: 30px;
     letter-spacing: 2px;
   }
-  
+  .round-image {
+  border-radius: 50%;
+}
+
      
  
      
