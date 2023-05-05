@@ -4,14 +4,14 @@ body{
   h1{
     color: whitesmoke;
     background-color: #617A55;
-    font-family: 'Vina Sans', cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 60px;
     letter-spacing: 2px;
   }
   h2{
     color: #FAF8F1;
     background-color: #A4D0A4;
-    font-family: 'Vina Sans', cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
     letter-spacing: 2px;
   }
