@@ -1,5 +1,7 @@
 body{
     background-color: #FFF8D6;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
   }
   h1{
     color: whitesmoke;
@@ -15,8 +17,7 @@ body{
     font-size: 30px;
     letter-spacing: 2px;
   }
-  p{
-     font-family: 'Roboto', sans-serif;
-     letter-spacing: 2px;
-  }
+  
+     
+ 
      
